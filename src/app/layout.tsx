@@ -27,12 +27,12 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "Aman Kumar Bairagi",
+  title: "Aakash Singh",
   description:
     "A developer from India who enjoys building website frontends and is also a full-stack developer. Passionate about creating various tech projects and learning along the way.",
   openGraph: {
     type: "website",
-    title: "Aman Kumar Bairagi",
+    title: "Aakash Singh",
     description:
       "A developer from India who enjoys building website frontends and is also a full-stack developer. Passionate about creating various tech projects and learning along the way.",
     images: [

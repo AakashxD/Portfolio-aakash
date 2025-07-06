@@ -17,7 +17,7 @@ export default function ProofofWork() {
 
   return (
     <>
-      <section className="flex flex-col gap-8 my-8 justify-center mt-16">
+      {/* <section className="flex flex-col gap-8 my-8 justify-center mt-16">
         <h1 className="text-xl px-6 py-2 border-l-8 border-primary bg-gradient-to-r from-accent dark:from-accent/40 flex items-center gap-2 font-semibold">
           Github Contributions{" "}
           <Link href={"https://github.com/amanbairagi30"} target="_blank">
@@ -37,7 +37,7 @@ export default function ProofofWork() {
             ]}
           />
         </div>
-      </section>
+      </section> */}
 
       <section id="projects" className="flex flex-col gap-8 mt-16">
         <Heading title="Recent Projects" />
@@ -49,7 +49,7 @@ export default function ProofofWork() {
 
       <Skills />
 
-      <section className="flex flex-col gap-8 mt-16">
+      {/* <section className="flex flex-col gap-8 mt-16">
         <Heading title="Open source Contributions" />
         <section className="">
           <widget-web-component
@@ -63,7 +63,7 @@ export default function ProofofWork() {
             top-visible="false"
           />
         </section>
-      </section>
+      </section> */}
     </>
   );
 }

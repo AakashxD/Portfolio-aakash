@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="">
       <Top />
-      <WorkExperience />
+      {/* <WorkExperience /> */}
       <ProofofWork />
     </div>
   );

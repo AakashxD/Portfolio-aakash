@@ -10,18 +10,17 @@ export default function Skills() {
 
         <article className="flex items-center gap-2 px-6 flex-wrap">
           {[
-            "NextJs",
             "ReactJs",
-            "TS/JS",
-            "Hono",
+            "JavaScript",
+            "TypeScript",
             "PostgreSQL",
             "MongoDB",
-            "Prisma",
             "TailwindCSS",
-            "Docker",
+            "Redis",
             "NodeJs/ExpressJs",
             "WebSockets",
             "Git/Github",
+            "NextJs"
           ].map((item, index) => (
             <Badge
               key={index}

@@ -17,15 +17,15 @@ export default function Top() {
         <div className="flex flex-col gap-2 col-span-4 ">
           <h3 className="text-foreground/60">Hi there ! This is</h3>
           <h1 className="text-4xl flex items-center gap-4 font-extrabold">
-            Aman Kumar Bairagi <SelectTheme />
+            Aakash Singh <SelectTheme />
           </h1>
           <p className="text-foreground/60">
-            A developer from India who enjoys building website frontends and is
+            A developer from India who enjoys building website 
             also a full-stack developer. Passionate about creating various tech
             projects and learning along the way.
           </p>
 
-          <CurrentWork />
+          {/* <CurrentWork /> */}
 
           <aside className="flex items-center gap-2 mt-4">
             <Button

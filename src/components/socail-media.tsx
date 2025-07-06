@@ -9,22 +9,22 @@ export default function SocailMedia() {
   return (
     <>
       <aside className="flex py-2 items-center gap-4">
-        <a href={"/aman_kumar_bairagi_resume.pdf"} target="_blank">
+        <a href={"/aakashSingh.pdf"} target="_blank">
           <FileUser />
         </a>
-        <Link href={"https://x.com/AMANBAIRAGI_30"} target="_blank">
+        <Link href={"https://x.com/xAakashSingh"} target="_blank">
           <XIcon />
         </Link>
-        <Link href={"https://github.com/amanbairagi30"} target="_blank">
+        <Link href={"https://github.com/AakashxD"} target="_blank">
           <GithubIcon />
         </Link>
         <Link
-          href={"https://www.linkedin.com/in/aman-kumar-bairagi-9315b3242/"}
+          href={"https://www.linkedin.com/in/aakash-singh-0057a7258/"}
           target="_blank"
         >
           <LinkedInIcon />
         </Link>
-        <Link href={"mailto:amanbairagi1089@gmail.com"} target="_blank">
+        <Link href={"mailto:aakashsingh4518@gmail.com"} target="_blank">
           <Mail />
         </Link>
       </aside>
